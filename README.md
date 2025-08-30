@@ -1,6 +1,10 @@
 # Mern-Stack-Development
+<br>
 This Repo contains all the project from Cohort of Mern-Stack-Development
-<div>
+</br>
+<br>
 This contains all the project I did during my 100xdevs Cohort 2.0
-</div>
+</br>
+<br>
 Author-Staiesh Fatima
+</br>
